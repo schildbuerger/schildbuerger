@@ -6,7 +6,7 @@ Product leader in Berlin with more than a decade of experience in product vision
 
 ### 🥾 [huckepack: compare long-distance hiking trails](https://huckepack.me/)
 
-**[huckepack.me](https://huckepack.me/)** helps hikers find the long-distance trail that suits them and plan it with the data that matters on the way. It compares **131 official long-distance and thru-hiking trails in 28 countries** by stages, terrain, elevation, climate, water and beds. Every figure comes from official and open sources, and each page names its source.
+**[huckepack.me](https://huckepack.me/)** helps hikers find the long-distance trail that suits them and plan it with the data that matters on the way. It compares **official long-distance and thru-hiking trails worldwide** by stages, terrain, elevation, climate, water and beds. Every figure comes from official and open sources, and each page names its source.
 
 From the Appalachian Trail and the Pacific Crest Trail to Te Araroa, the GR 20 and the Camino Francés: one page per trail, comparable side by side.
 
@@ -26,7 +26,7 @@ Classics, restorations and re-releases in Berlin cinemas.
 
 - 🏢 Currently at **BARMER**, one of Germany's largest health insurers
 - 🚀 Previously at **Google**, where I received the EMEA Hub awards *Customer Champion* and *Growth Guru*; my work on testing-led lead growth at Verivox was featured as a Think with Google case study
-- 🎙️ Created and hosted the podcast *The Floor is Lava* at kreait, and built **Olaph**, a tool for running stand-ups in Slack
+- 🎙️ Created and hosted the podcast *The Floor is Lava* at kreait
 - 🎓 Business and strategy at Quantic School of Business and Technology · Certified Scrum Product Owner · Management 3.0
 - 🌍 German and English
 
