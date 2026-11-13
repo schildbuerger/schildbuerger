@@ -4,21 +4,21 @@ Product leader in Berlin with more than a decade of experience in product vision
 
 ## What I'm building
 
-### 🥾 [huckepack: compare long-distance hiking trails](https://huckepack.me/)
+### 🥾 huckepack: compare long-distance hiking trails
 
 **[huckepack.me](https://huckepack.me/)** helps hikers find the long-distance trail that suits them and plan it with the data that matters on the way. It compares **official long-distance and thru-hiking trails worldwide** by stages, terrain, elevation, climate, water and beds. Every figure comes from official and open sources, and each page names its source.
 
 From the Appalachian Trail and the Pacific Crest Trail to Te Araroa, the GR 20 and the Camino Francés: one page per trail, comparable side by side.
 
-→ Visit **[huckepack.me](https://huckepack.me/)** · Code: [schildbuerger/huckepack](https://github.com/schildbuerger/huckepack)
+→ Visit **[huckepack.me](https://huckepack.me/)**
 
-### 📊 [healthviz: European health data, visualised](https://healthviz.eu/)
+### 📊 healthviz: European health data, visualised
 
 **[healthviz.eu](https://healthviz.eu/)** is a playground of interactive visualisations built on **open European health data**. Each entry takes one question and the public data that answers it, and turns it into a chart you can explore.
 
-→ Visit **[healthviz.eu](https://healthviz.eu/)** · Built site: [schildbuerger/healthviz-site](https://github.com/schildbuerger/healthviz-site)
+→ Visit **[healthviz.eu](https://healthviz.eu/)**
 
-### 🎬 Also: [reflick](https://schildbuerger.github.io/reflick/)
+### 🎬 Also: reflick
 
 Classics, restorations and re-releases in Berlin cinemas.
 
