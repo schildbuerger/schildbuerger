@@ -8,6 +8,7 @@ Product leader in Berlin with more than a decade of experience in product vision
 - 📊 **healthviz**: interactive visualisations of open European health data · [healthviz.eu](https://healthviz.eu/)
 - 🎬 **reflick**: classics, restorations and re-releases in Berlin cinemas · [website](https://schildbuerger.github.io/reflick/) · [repo](https://github.com/schildbuerger/reflick)
 - ✳️ **claude-usage-bar**: macOS menu bar app showing remaining weekly Claude budget vs. remaining week · [repo](https://github.com/schildbuerger/claude-usage-bar)
+- 🧠 **memory-pressure-bar**: macOS menu bar app showing Activity Monitor's memory pressure with a color indicator · [repo](https://github.com/schildbuerger/memory-pressure-bar)
 
 ## About me
 
